@@ -6,7 +6,7 @@ import fs from "fs"
 global.botNumber = "" //فيك تخلي هذا المحل على فراغ 
 
 // عدل في محل owenar لي كي تحط نفسك مالك للبوت 
-global.owner = ["249922420554", "212662023605", "201559086340"]
+global.owner = ["249900306011", "249900306011", "249900306011"]
 global.suittag = ["249922420554"] 
 global.prems = []
 
@@ -21,7 +21,7 @@ global.yukiJadibts = true
 
 global.botname = ".𓏲⋆˙𝑵𝜩𝒁𝑼𝑲̤͝𝜣͓ۧٛ͢ ͝ 𝑩𝜣𝑻🎀"
 global.textbot = ".𓏲⋆˙𝑵𝜩𝒁𝑼𝑲̤͝𝜣͓ۧٛ͢ ͝ 𝑩𝜣𝑻🎀"
-global.dev = "𝒛𝒊𝒂𝒅 Ｘ 𝒎𝒐𝒏𝒕𝒆"
+global.dev = "MESHAL"
 global.author = ".𓏲⋆˙𝑵𝜩𝒁𝑼𝑲̤͝𝜣͓ۧٛ͢ ͝ 𝑩𝜣𝑻🎀"
 global.etiqueta = ".𓏲⋆˙𝑵𝜩𝒁𝑼𝑲̤͝𝜣͓ۧٛ͢ ͝ 𝑩𝜣𝑻🎀"
 global.currency = "¥enes"
